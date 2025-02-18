@@ -1,0 +1,11 @@
+{
+  "name": "hades-fury",
+  "version": "1.0.0",
+  "title": "Hades' Fury",
+  "author": "PickledCow",
+  "contact": "factorio@joon.id.au",
+  "factorio_version": "2.0",
+  "space_travel_required": true,
+  "dependencies": ["base >= 2.0", "space-age >= 1.0.0"],
+  "description": "Master control over the planet's core to erupt Demolisher lava fissures under your enemies!"
+}
